@@ -90,4 +90,4 @@ def demo(msg="HELLOWORLD"):
 if __name__ == "__main__":
     print("Enter text to enter.")
     a=input()
-    print(demo(a))
+    demo(a)
